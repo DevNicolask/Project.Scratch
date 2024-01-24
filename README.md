@@ -29,15 +29,30 @@
 ### iii. Depois procure a pasta em que você guardou o meu projeto, dentro dela tem um arquivo do tipo `.sb3`
 ### iv. Agora você pode abrir, testar e fazer alterações!
 
+<!--descrição-->
+<h2>III. Descrição. </h2>
+
+### - O jogador controla um gato com o ponteiro do mouse e prescisa pegar o rato o maior número de vezes antes que o tempo acabe, o rato corre do gato quando ele se aproxima e some para um lugar aleatório toda vez que é pego, mas toda vez que o gato pega o rato sua velocidade aumenta e o gato tem maior chance de pegar o rato.
+
+<!--Início de Imagens-->
+<h2> Imagens: 📷</h2>
+
+### i. Tela inicial do jogo.
+<img src="prints/capturadetela1.png" alt="Tela inicial do jogo.">
+
+### ii. Tela príncipal do jogo.
+<img src="prints/capturadetela2.png" alt="Tela inicial do jogo.">
+
+### iii. Tela final do jogo e meu maior record.
+<img src="prints/capturadetela3.png" alt="Tela inicial do jogo.">
+<!--Fim de Imagens-->
+
 <!--Contribuições-->
-<h2>III. Contribuições. 😎</h2>
+<h2>IV. Contribuições. 😎</h2>
 
 ### - Contribuições serão muito bem vindas! Se você quiser continuar esse projeto pode fazer `FORK` do projeto e, se quiser, pode me mandar solicitação de `MERGE`, que eu ficarei estremamente feliz e agradecido! 
 
 <!--Ideias-->
-<h2>IV. Ideias de Contribuções ✨: </h2>
+<h2>V. Mensagem final ✨: </h2>
 
-#### 🎼 - Adicionar uma músicas no jogo.
-#### 😊 - Adicionar um uma tela de início pro jogo.
-#### 👾 - Adicionar uma meta para finalizar o jogo.
-#### ❤️ - Adicionar um uma tela final ao jogo.
+### Espero que tenha gostado desse projeto, e quem sabe possa lhe dar alguma inspiração em seus próprios projetos!
